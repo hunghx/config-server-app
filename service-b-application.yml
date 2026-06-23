@@ -3,7 +3,7 @@ spring:
     name: service-b
 app:
   title: service-b
-  username: root
-  pass: 12345678
+  username: user
+  pass: 123456
 server:
   port: 8083

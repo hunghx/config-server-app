@@ -2,7 +2,7 @@ spring:
   application:
     name: service-b
 app:
-  title: service-c
+  title: service-e
   username: user
   pass: 123456
 server:

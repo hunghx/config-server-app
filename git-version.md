@@ -1,1 +1,3 @@
--- Tạo 3 lịch sử commit cho các file cấu hình
+-- Tạo 3 lịch sử commit cho các file cấu hình 
+-- Đẩy lên trên git hub với 3 nhánh khác nhau
+-- xử lý merge conflict khi lịch sử commit các 2 nhánh khác nhau 

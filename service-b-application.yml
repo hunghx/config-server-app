@@ -6,4 +6,4 @@ app:
   username: root
   pass: 12345678
 server:
-  port: 8082
+  port: 8083
